@@ -1,0 +1,33 @@
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Estilo para o título */
+h1 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Estilo para o primeiro parágrafo */
+.destaque{
+  font-size: 18px;
+  color: #963c56;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+/* Estilo para o segundo parágrafo */
+strong{
+  font-size: 18px;
+  color: #838ffa;
+  line-height: 1.6;
+}
